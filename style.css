@@ -1,9 +1,13 @@
+body {
+    background-color: #d2b48c;
+}
+
 div#header {
   width: 100%
   position: absolute;
   top: 0;
   left: 0;
-  background-color: #990000;
+  background-color: #4169e1;
 }
 
 div#header h2 {
@@ -29,6 +33,14 @@ footer {
   bottom: 0;
   left: 0;
   padding: 1em;
-  background-color: lightgrey;
+  background-color: #4169e1;
   text-align: center;
 }
+
+.wow {
+  margin: .5em .5em .5em .5em;
+}
+
+
+
+
